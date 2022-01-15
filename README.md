@@ -26,4 +26,4 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 ### ``Project view``:-
 
-<img src="img/Project.png">
+<img src="img/Project_view.png">
